@@ -1,0 +1,11 @@
+.profile_image{
+    height: 170px;
+}
+
+body{
+    background-color: rgb(244, 248, 25) !important; 
+}
+
+.spacer{
+    max-width: 80px;
+}
