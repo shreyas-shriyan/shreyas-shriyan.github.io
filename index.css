@@ -9,3 +9,8 @@ body{
 .spacer{
     max-width: 80px;
 }
+
+.icons > img {
+    width: 90px;
+    padding: 0 20px;
+}
