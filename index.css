@@ -1,16 +1,30 @@
 .profile_image{
-    height: 170px;
+    height: 210px;
 }
 
 body{
-    background-color: rgb(244, 248, 25) !important; 
-}
-
-.spacer{
-    max-width: 80px;
+    /* background-color: rgb(244, 248, 25) !important;  */
+    text-align: center;
+    background-image: url("./icons/back2.jpg");
+    background-repeat: repeat-y;
+    background-size: 100%;
 }
 
 .icons > img {
-    width: 90px;
+    height: 100px;
     padding: 0 20px;
+}
+
+.icons > div{
+    margin: 10px;
+}
+
+.icons > p {
+    margin-top: 10px;
+    font-size: 13px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.name{
+    font-family: 'Quicksand', sans-serif;
 }
