@@ -10,7 +10,7 @@
 <div id="appContainer" class={`h-screen px-5`}>
 	<Navbar />
 	<div
-		class="flex justify-center items-center rounded-2xl h-1/2 bg-gradient-to-r from-yellow-400 to-amber-200"
+		class="flex justify-center items-center bg-clip-padding backdrop-filter backdrop-blur-md bg-opacity-10 rounded-2xl h-1/2 bg-gradient-to-r from-yellow-400 to-amber-300"
 	>
 		<div class=" text-white font-bold text-4xl">shreyas-shriyan.github.io</div>
 	</div>
